@@ -1,7 +1,6 @@
 
 ***Nearest Neighbors (k-NN) From Scratch in C++***
 
- Présentation du Projet
 Ce projet consiste en une réimplémentation complète de l'algorithme des k-plus proches voisins (k-NN) en C++ pur. Dans une démarche d'apprentissage autodidacte orientée vers le Machine Learning et la programmation système, j'ai choisi de ne dépendre d'aucune bibliothèque externe.
 L'objectif est de démontrer ma capacité à traduire des concepts mathématiques théoriques en code informatique performant et optimisé.
  **Objectifs Pédagogiques**
